@@ -1,5 +1,6 @@
-# COVID-19 TRACKER
+# [COVID-19 TRACKER](https://covid19-data-tracker-app.herokuapp.com/)
 
+## Link: [COVID-19 TRACKER](https://covid19-data-tracker-app.herokuapp.com/)
 ## Build Setup
 
 ```bash
